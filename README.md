@@ -1,11 +1,11 @@
 # Awesome-SLAM-Papers
-List of SLAM Papers / SLAM文章速递
+A curated list of SLAM-related papers / SLAM文章速递
 
-### Stay tuned for constant updates!
+#### Stay tuned for constant updates!
 
 > Last updated: Mar. 29th, 2019.
 
-The repo mainly summuries the academic publishing relevant to **SLAM/VO/VIO/SfM**, ect. And it was inspired by [YiChenCityU](https://github.com/YiChenCityU)'s repo - [Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research).
+The repo is maintained by [Youjie Xia](https://github.com/YoujieXia).  The repo mainly summuries the academic publishing relevant to **SLAM/VO/VIO/SfM**, ect. And it was inspired by [YiChenCityU](https://github.com/YiChenCityU)'s repo - [Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research).
 
 If you think this repo is useful, please ***watch***, ***star*** or ***fork*** it!
 
