@@ -1,7 +1,7 @@
 # Awesome-SLAM-Papers
 A curated list of SLAM-related papers / SLAM文章速递
 
-#### Stay tuned for constant updates!
+### Stay tuned for constant updates!
 
 > Last updated: Mar. 29th, 2019.
 
@@ -32,6 +32,8 @@ Regrading a curated list of SLAM resources, please refer to [Awesome-SLAM](https
 #### 1. 2018-Q1-[Visual-Inertial Monocular SLAM with Map Reuse](https://arxiv.org/pdf/1610.05949.pdf)
 
 ## Visual  SLAM
+
+#### 4. 2019-04-02-[Visual SLAM: Why Bundle Adjust?](https://arxiv.org/pdf/1902.03747.pdf), ICRA 2019.
 
 #### 3. 2019-Q1-[Online Photometric Calibration of Auto Exposure Video for Realtime Visual Odometry and SLAM](https://www.semanticscholar.org/paper/Online-Photometric-Calibration-of-Auto-Exposure-for-Bergmann-Wang/74953f3ec4fdcc1d8a0a45f3f0f84eaa003ae4c3)
 
