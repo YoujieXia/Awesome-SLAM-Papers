@@ -1,7 +1,7 @@
 # Awesome-SLAM-Papers
 A curated list of SLAM-related papers / SLAM文章速递
 
-### Stay tuned for constant updates!
+## Stay tuned for constant updates!
 
 > Last updated: Mar. 29th, 2019.
 
@@ -50,6 +50,8 @@ Regrading a curated list of SLAM resources, please refer to [Awesome-SLAM](https
 
 
 ## Survey
+
+#### 3. 2019-Q2-[Visual-Inertial Navigation: A Concise Review](https://arxiv.org/pdf/1906.02650.pdf), ICRA 2019.
 
 #### 2. 2018-Q4-[Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age](http://rpg.ifi.uzh.ch/docs/TRO16_cadena.pdf)
 
